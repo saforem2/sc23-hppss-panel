@@ -19,7 +19,7 @@ format:
     preview-links: true
     controls-tutorial: true
     controls: false
-    logo: "https://raw.githubusercontent.com/saforem2/llm-lunch-talk/main/docs/assets/anl.svg"
+    logo: "sc23logo.png"
     history: false
     highlight-style: "atom-one"
     css:
@@ -44,6 +44,28 @@ format:
     author: Sam Foreman
     output-file: "README.md"
 ---
+
+# Panelists
+
+::: {layout-ncol=2}
+
+::: {.col-1}
+
+- Fernanda Foertter (Voltron Data)
+- Torsten Hoefler (ETH Zurich)
+- Siu Kwan Lam (Anaconda)
+
+:::
+
+::: {.col-2}
+
+- Travis Oliphant (Quansight)
+- Ben Zaitlen (NVIDIA)
+- Richard Zamora (NVIDIA)
+
+:::
+
+:::
 
 ::: {style="font-size: 0.9em;"}
 
@@ -114,12 +136,12 @@ format:
 
 
 - **Panelists**:
-  - Fernanda Foertter
-  - Torsten Hoefler
-  - Siu Kwan Lam
-  - Travis Oliphant
-  - Ben Zaitlen
-  - Richard Zamora
+  - Fernanda Foertter (Voltron Data)
+  - Torsten Hoefler (ETH Zurich)
+  - Siu Kwan Lam (Anaconda)
+  - Travis Oliphant (Quansight)
+  - Ben Zaitlen (NVIDIA)
+  - Richard Zamora (NVIDIA)
 
 :::
 
@@ -131,7 +153,7 @@ format:
   - Daniel Margala
   - Sam Foreman
 
-- Contributors / prsenters !!
+- Contributors / presenters !!
 
 - Attendees
 
