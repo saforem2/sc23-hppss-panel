@@ -35,7 +35,7 @@ citation:
    author: Sam Foreman
    type: speech
    title: "HPPSS Panel @ SC23"
-   url: https://saforem2.github.io/llm-lunch-talk
+   url: https://saforem2.github.io/sc23-hppss-panel
 # favicon: "./assets/favicon.svg"
 # format:
 #   html:
@@ -44,15 +44,15 @@ citation:
 #
 website:
   favicon: "./favicon.svg"
-  description: "LLMs on Polaris (2023-10-11)"
+  description: "HPPSS Panel @ SC23"
   page-navigation: true
-  title: "LLMs on Polaris"
-  site-url: "https://saforem2.github.io/llm-lunch-talk"
+  title: "HPPSS Panel @ SC23"
+  site-url: "https://saforem2.github.io/sc23-hppss-panel"
   # favicon: "./favicon.svg"
   back-to-top-navigation: true
   # reader-mode: true
   open-graph: true
-  repo-url: https://github.com/saforem2/llm-lunch-talk
+  repo-url: https://github.com/saforem2/sc23-hppss-panel
   repo-actions: [source, edit, issue]
   google-analytics: G-XVM2Y822Y1
   sidebar: false
@@ -62,7 +62,7 @@ website:
     foregound: "#777777"
     right:
       - icon: github
-        href: https://github.com/saforem2/llm-lunch-talk
+        href: https://github.com/saforem2/sc23-hppss-panel
         aria-label: GitHub
   page-footer:
     left: "[samforeman.me](https://samforeman.me)"

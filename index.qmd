@@ -108,24 +108,32 @@ format:
 
 # Thank you!!
 
-Panelists:
-
 ::: {layout-ncol=2}
 
 ::: {.col-1}
 
-- Fernanda Foertter
-- Torsten Hoefler
-- Siu Kwan Lam
+
+- **Panelists**:
+  - Fernanda Foertter
+  - Torsten Hoefler
+  - Siu Kwan Lam
+  - Travis Oliphant
+  - Ben Zaitlen
+  - Richard Zamora
 
 :::
 
-
 ::: {.col-2}
 
-- Travis Oliphant
-- Ben Zaitlen
-- Richard Zamora
+- Organizers:
+
+  - Pete Mendygral
+  - Daniel Margala
+  - Sam Foreman
+
+- Contributors / prsenters !!
+
+- Attendees
 
 :::
 
