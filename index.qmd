@@ -1,0 +1,132 @@
+---
+format:
+  revealjs:
+    code-line-numbers: false
+    code-link: false
+    code-copy: false
+    scrollable: true
+    title-block-style: none
+    slide-number: c
+    title-slide-style: default
+    chalkboard:
+      buttons: false
+    auto-animate: true
+    reference-location: section
+    touch: true
+    pause: false
+    footnotes-hover: true
+    citations-hover: true
+    preview-links: true
+    controls-tutorial: true
+    controls: false
+    logo: "https://raw.githubusercontent.com/saforem2/llm-lunch-talk/main/docs/assets/anl.svg"
+    history: false
+    highlight-style: "atom-one"
+    css:
+      - css/default.css
+      - css/callouts-html.css
+    theme:
+      - white
+      - css/light.scss
+      - css/common.scss
+      - css/syntax-light.scss
+    self-contained: false
+    embed-resources: false
+    self-contained-math: false
+    center: true
+    default-image-extension: svg
+    code-overflow: scroll
+    html-math-method: katex
+    fig-align: center
+    mermaid:
+      theme: dark
+  gfm:
+    author: Sam Foreman
+    output-file: "README.md"
+---
+
+::: {style="font-size: 0.9em;"}
+
+# [HPPSS Panel](https://hppss.github.io/SC23/) @ SC23
+
+::: {layout="[42, 58]" gap="3%" layout-valign="top" style="font-size: 0.8em;"}
+
+
+::: {.col-1}
+
+1. How has distributed/parallel computation evolved? 
+
+    - What role do you see Python playing in the future?
+
+2. What are the key challenges non-expert and expert HPC users
+   face when **scaling** Python workloads?
+
+3. Users are often faced with some kind of rewrite when transitioning from
+   laptop to supercomputer.
+
+     - How should users think about approaching this challenge? 
+     - When should they look to
+         - Cool-new-tools (Julia, Mojo, etc)
+         - CPython (+ broader ecosystem)
+         - Full rewrites into Fortran/C/C++ (and traditional HPC libraries)?
+
+:::
+
+::: {.col-2}
+
+4. There are technical roadblocks to wider use of Python in HPC.
+
+     - Issues like running Python at scale from specific filesystems on
+       supercomputers can cause issues and many best-practices not widely
+       documented or understood.
+
+     - How should the HPC community organize knowledge to enable users of all
+       backgrounds?
+
+5. There are social roadblocks to the wider adoption of Python in HPC.
+
+    - For example, some computing centers do not like Python-based workloads
+      running on their machines.
+
+    - What technical/communication/other solutions should we look to for
+      changing hearts and minds and promoting accessibility of HPC through Python
+      across a broad range of users?
+
+6. How do you see or use Python to bring together traditional HPC applications,
+   cloud, and the AI ecosystem? 
+
+    - How should users think about constructing applications and workflows at
+      scale?
+        - while keeping informed about performance implication?
+
+:::
+
+:::
+
+:::
+
+
+# Thank you!!
+
+Panelists:
+
+::: {layout-ncol=2}
+
+::: {.col-1}
+
+- Fernanda Foertter
+- Torsten Hoefler
+- Siu Kwan Lam
+
+:::
+
+
+::: {.col-2}
+
+- Travis Oliphant
+- Ben Zaitlen
+- Richard Zamora
+
+:::
+
+:::
